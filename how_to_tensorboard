@@ -1,0 +1,7 @@
+Using terminal:
+[1] Activate environment 
+>> activate <envs_name>
+
+[2] tensorboard --logdir <path_to_log_folder>
+
+[3] from browser, run: localhost:6006
